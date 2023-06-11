@@ -14,6 +14,13 @@ System.out.println("Hellow Ashnisha");//"Hellow world"
 		
 		//editing directly in github website
 
+//Code for adding using git bash
+
+System.out.println("Hellow this is new prog");//"Hellow world"
+
+
+
+
 	}
 
 }
